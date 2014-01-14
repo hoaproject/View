@@ -28,7 +28,7 @@
   <ul>
     <li>nous avons des <strong>données</strong> que nous voulons
     <strong>agencer</strong> et <strong>afficher</strong> à l'utilisateur ;</li>
-    <li>une vue utilise aussi des <strong>ressources</strong> qu'il faut être
+    <li>une vue utilisé aussi des <strong>ressources</strong> qu'il faut être
     capable de localiser ;</li>
     <li>enfin, le <strong>rendu</strong> est le mécanisme permettant d'obtenir
     un résultat (données agencées, ressources liées etc.).</li>
